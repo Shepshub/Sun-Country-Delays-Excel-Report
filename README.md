@@ -12,4 +12,9 @@ Goals of the Project:
 This project uses a combination of Excel and data visualization techniques to present a comprehensive dashboard that tracks delay performance and offers a breakdown of controllable delays. By leveraging this analysis, Sun Country Airlines can focus on data-driven improvements to enhance operational reliability.
 
 ## Data Structure & Initial Checks
+This project uses flight delay data from Sun Country Airlines, spanning August and September 2024. Below is an overview of the key tables and their corresponding columns and data types:
 
+### Data Considerations:
+Multiple Delay Codes: Some flights may have multiple rows in the Delays sheet if they experienced more than one reason for delay. Each delay reason is captured in separate rows, along with the corresponding total delay time and code.
+
+Controllable vs. Uncontrollable Delays: Delay codes and subcodes help differentiate between delays that the airline could control (e.g., crew issues) versus uncontrollable factors (e.g., weather or inbound delays).
