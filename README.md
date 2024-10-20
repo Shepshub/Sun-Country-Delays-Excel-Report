@@ -10,3 +10,6 @@ Goals of the Project:
 - Insights and Recommendations: Provide key insights and recommend actionable steps to reduce delays and improve operational efficiency, potentially leading to better on-time performance and overall service quality.
 
 This project uses a combination of Excel and data visualization techniques to present a comprehensive dashboard that tracks delay performance and offers a breakdown of controllable delays. By leveraging this analysis, Sun Country Airlines can focus on data-driven improvements to enhance operational reliability.
+
+## Data Structure & Initial Checks
+
