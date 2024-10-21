@@ -14,7 +14,7 @@ This project uses a combination of Excel and data visualization techniques to pr
 ## Data Structure & Initial Checks
 This project uses flight delay data from Sun Country Airlines, spanning August and September 2024. Below is an overview of the key tables and their corresponding columns and data types:
 
-
+![image](https://github.com/user-attachments/assets/28f88a22-d1cf-49a4-a131-1c7ec21437f5)
 
 ### Data Considerations:
 Multiple Delay Codes: Some flights may have multiple rows in the Delays sheet if they experienced more than one reason for delay. Each delay reason is captured in separate rows, along with the corresponding total delay time and code.
