@@ -42,6 +42,8 @@ Key performance indicators (KPIs), including on-time performance, total delay ti
    
      The top delay codes identified were responsible for the majority of the delays over the 2 months:
 
+![image](https://github.com/user-attachments/assets/00fdbe30-f1af-48b8-a06c-4a4a0b43b0f5)
+
 - Code 93: Aircraft location - Late arrival (167 occurrences)
 - Code 41: Aircraft defects, including deferrals (90 occurrences)
 - Code 46: Aircraft change for technical reasons (48 occurrences)
