@@ -52,7 +52,7 @@ Key performance indicators (KPIs) were analyzed, including on-time performance, 
   
   ![image](https://github.com/user-attachments/assets/2672935f-92ea-4510-acbb-210d2ffe32be)
 
-     MX has, far and away, the most controllable delay codes over the two months, with 121 delays coded in August and 47 in September. This accounts for 31% of all controllable delays over the two months.
+     Along with having 2 of the top 5 delay codes, MX has, far and away, the most controllable delay codes over the two months, with 121 delays coded in August and 47 in September. This accounts for 31% of all controllable delays over the two months.
 
 4. Delay Time Distribution
    
