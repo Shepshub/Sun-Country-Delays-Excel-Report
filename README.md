@@ -48,7 +48,11 @@ Key performance indicators (KPIs) were analyzed, including on-time performance, 
 - Code 65: Flight deck crew special request or error (30 occurrences)
 - Code 37: Catering, late delivery or loading (27 occurrences)
   
-     These five delay codes were consistent across both individual months and, in total, accounted for 63% of all delays during August and September 2024. The most significant contributor was Code 93, which alone represented 29% of total delays. Combined, these top 5 delay codes generated 12,943 minutes of total delay time over the two months, with Code 93 and Code 46 being the primary drivers of delays. 
+     These five delay codes were consistent across both individual months and, in total, accounted for 63% of all delays during August and September 2024. The most significant contributor was Code 93, which alone represented 29% of total delays. Combined, these top 5 delay codes generated 12,943 minutes of total delay time over the two months, with Code 93 and Code 46 being the primary drivers of delays.
+  
+  ![image](https://github.com/user-attachments/assets/2672935f-92ea-4510-acbb-210d2ffe32be)
+
+     MX has, far and away, the most controllable delay codes over the two months, with 121 delays coded in August and 47 in September. This accounts for 31% of all controllable delays over the two months.
 
 4. Delay Time Distribution
    
