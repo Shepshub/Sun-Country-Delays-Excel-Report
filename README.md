@@ -55,3 +55,26 @@ Key performance indicators (KPIs) were analyzed, including on-time performance, 
    ![image](https://github.com/user-attachments/assets/996d845b-96b3-4398-bc03-6e40348a5580)
    
      Delays during this period ranged widely, but 88% of all delay times were less than 60 minutes, and 72% were less than 30 minutes. A notable ten flights exceeded 4 hours, causing the issuance of compensation and having the most significant impact on both on-time performance and passenger satisfaction. 
+
+## Recommendations
+Based on the analysis of delays during August and September 2024, the following recommendations are proposed to improve on-time performance and reduce operational disruptions:
+
+1. Focus on Minimizing Delays from Inbound Aircraft (Code 93)
+
+     Delays caused by late arriving aircraft were the most frequent issue, accounting for 29% of all delays. **Implement more robust contingency plans for inbound aircraft. This could include optimizing turnaround times, better coordinating with ground services, pre-assigning backup aircraft, or swapping aircraft routes when inbound delays are anticipated to improve on-time performance.**
+
+2. Enhance Aircraft Maintenance and Pre-flight Checks (Code 41 & 46)
+
+     Aircraft defects and technical changes together accounted for nearly 30% of delays. Addressing these technical issues would target two of the top five causes of delays. **Strengthen pre-flight technical inspections and ensure better maintenance schedules, particularly for aircraft that frequently experience defects or technical issues.**
+  
+3. Streamline Processes for Flight Deck and Cabin Crew Requests (Codes 65 & 68)
+
+     Delays from the flight deck and cabin crew special requests represent significant operational inefficiencies. **Clear communication protocols between crew members and ground services to prevent last-minute requests or changes. Further, additional training on flight readiness and on-time departures should be offered to above and below wings agents to anticipate and prevent these requests.**
+
+4. Improve Catering and Ground Service Coordination (Code 37)
+
+     Rationale: Delays related to late catering deliveries were in the top five and are highly preventable. **Implement real-time delivery tracking to get better data on exactly when flights are being catered. Based on this new information, integrate catering schedules more closely with flight plans. Review contracts and service level agreements with catering providers to enforce stricter deadlines if needed.**
+
+5. Monitor and Report on Controllable Delays
+
+     Controllable delays make up a significant portion of overall delays but can be mitigated with targeted interventions. **Set up regular reporting dashboards focused on controllable delay categories, enabling better performance monitoring over time. Provide these dashboards to management in each department. This will allow for earlier intervention and more proactive delay management.**
