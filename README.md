@@ -52,4 +52,6 @@ Key performance indicators (KPIs) were analyzed, including on-time performance, 
 
 4. Delay Time Distribution
    
+   ![image](https://github.com/user-attachments/assets/996d845b-96b3-4398-bc03-6e40348a5580)
+   
      Delays during this period ranged widely, but 88% of all delay times were less than 60 minutes, and 72% were less than 30 minutes. A notable ten flights exceeded 4 hours, causing the issuance of compensation and having the most significant impact on both on-time performance and passenger satisfaction. 
