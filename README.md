@@ -13,6 +13,10 @@ This project uses a combination of Excel and data visualization techniques to pr
 
 An interactive Excel dashboard can be downloaded [here](https://github.com/Shepshub/Sun-Country-Delays/raw/refs/heads/main/Sun%20Country%20Delays%20-%20Aug%20Sep.xlsx)
 
+An interactive Power BI dashboard can be downloaded [here](https://github.com/Shepshub/Sun-Country-Delays/raw/refs/heads/main/Delays%20SEP%20&%20AUG.pbix)
+
+The Excel dashboard is the primary dashboard for this project and all of its insights. The Power BI dashboard is a secondary optional dashboard to further explore and breakdown different delay trends across multiple dimensions.
+
 ## Data Structure & Initial Checks
 This project uses flight delay data from Sun Country Airlines, spanning August and September 2024. Below is an overview of the key tables and their corresponding columns and data types:
 
